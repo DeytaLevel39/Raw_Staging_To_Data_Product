@@ -1,0 +1,7 @@
+customer_id,customer_number,first_name,last_name,lastmodifieddate,createddate,CRUD_flag
+a1w5f2001MM6nAAG,2,Imran,Smith,15/09/2022 15:17:09,15/09/2022 15:17:09,C
+a1w5f3001MM6nAAG,3,Abdul,Jones,15/09/2022 15:17:09,15/09/2022 15:17:09,C
+a1w5f1001MM6nAAG,1,John,LeClerc,15/09/2022 15:17:09,15/09/2022 15:17:09,C
+a1w5f4001MM6nAAG,4,James,LeClerc,15/09/2022 15:17:09,15/09/2022 15:17:09,C
+a1w5f0001MM6nAAG,0,Sarah,Cohen,15/09/2022 15:17:09,15/09/2022 15:17:09,C
+a1w5f0001MM6nAAG,0,Sara,Cohen,27/09/2022 16:21:09,15/09/2022 15:17:09,U

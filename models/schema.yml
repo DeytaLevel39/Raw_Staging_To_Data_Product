@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: dbtvault_bigquery_demo
+    database: steadfast-task-363413
+    schema: staging
+    tables:
+      - name: repl_customers
+      - name: repl_orders

@@ -1,0 +1,6 @@
+dbtvault_bigquery_demo:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      schema: data_vault

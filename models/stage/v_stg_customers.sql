@@ -1,5 +1,5 @@
 {%- set yaml_metadata -%}
-source_model: 'raw_customers'
+source_model: 'v_raw_customers'
 derived_columns:
   CUSTOMER_KEY: 'CUSTOMER_NUMBER'
   RECORD_SOURCE: '!SALESFORCE'

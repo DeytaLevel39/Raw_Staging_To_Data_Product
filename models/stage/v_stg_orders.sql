@@ -1,5 +1,5 @@
 {%- set yaml_metadata -%}
-source_model: 'raw_orders'
+source_model: 'v_raw_orders'
 derived_columns:
   ORDER_KEY: 'ORDER_NUMBER'
   CUSTOMER_KEY: 'CUSTOMER_NUMBER'
